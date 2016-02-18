@@ -1,6 +1,8 @@
 # fister
 Chrome extension to alert the user of feminist propaganda
 
+![](fist.jpg)
+
 # How it works
 When you visit any web page, the plugin searches the page's text for common feminist terminology. 
 If any is found, the feminist fist will show up in the address bar.
